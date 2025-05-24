@@ -13,8 +13,9 @@
 		"format": "prettier --write .",
 		"test:integration": "playwright test",
 		"test:unit": "vitest",
-		"generate": "drizzle-kit generate",
-		"migrate": "tsx ./migrate.ts",
+		"db:generate": "drizzle-kit generate",
+		"db:studio": "drizzle-kit studio",
+		"db:migrate": "drizzle-kit migrate",
 		"migrate:prod": "tsx ./migrate.ts --prod"
 	},
 	"devDependencies": {
