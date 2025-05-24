@@ -4,6 +4,6 @@ import { PUBLIC_ORIGIN } from '$env/static/public';
 
 export const GET: RequestHandler = async () => {
 	return await sitemap.response({
-		origin: PUBLIC_ORIGIN,
+		origin: PUBLIC_ORIGIN
 	});
 };

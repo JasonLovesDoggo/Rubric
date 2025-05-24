@@ -30,7 +30,7 @@ Visit `http://localhost:5173` to create your hackathon.
 
 aGPLv3 © JasonLovesDoggo
 
-While not required by the license, if you use Rubric for your hackathon, I'd appreciate a link back to this repo and 
+While not required by the license, if you use Rubric for your hackathon, I'd appreciate a link back to this repo and
 that you add your hackathon to the list below. This helps others find Rubric and see how it's being used in the wild.
 Thanks! 🙏
 
@@ -39,6 +39,7 @@ Thanks! 🙏
 Used Rubric? [Add your hackathon →](https://github.com/JasonLovesDoggo/rubric/edit/main/README.md)
 
 ## Hackathons using Rubric
+
 | Hackathon Name | Date | Link                        |
 |----------------|------|-----------------------------|
 | Hackathon 1    | TBD  | [Link](https://example.com) |
